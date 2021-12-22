@@ -1,0 +1,31 @@
+@media screen and (max-width : 767px){
+	.big-image{
+		visibility: hidden;
+		min-width: 200px;
+		min-height: 400px;
+	}
+}
+
+@media screen and (max-width : 436px){
+	.big-image{
+		min-height: 500px;
+	}
+}
+
+@media screen and (max-width : 372px){
+	.big-image{
+		min-height: 550px;
+	}
+}
+
+@media screen and (max-width : 350px){
+	.big-image{
+		min-height: 600px;
+	}
+}
+
+@media screen and (max-width : 272px){
+	.big-image{
+		min-height: 650px;
+	}
+}
