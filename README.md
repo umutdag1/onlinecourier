@@ -36,6 +36,10 @@ be downloaded in : <br/>
 If don't know how to do, then you must visit [this site](https://www.youtube.com/results?search_query=execute+php+in+xampp+)
 and watch one of them you've selected
 
+NOTE : Under /DB folder, you can find SQL Query, which you must also run it via a MySQL Framework/Tool such as SQLyog, HeidiSQL etc.
+If don't know how to do, then you must visit [this site](https://www.youtube.com/results?search_query=heidisql)
+and watch one of them you've selected
+
 *******************
 ## Installation
 *******************
