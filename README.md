@@ -22,7 +22,6 @@ multiplied by a seed money.
 *****************
 ## Developers
 *****************
-- Ulas Can Nacaksiz - Software/Web Developer - [Github](https://github.com/ulascannacaksiz)
 - Umut Dag - Web Developer - [Github](https://github.com/umutdag1)
 
 *******************
